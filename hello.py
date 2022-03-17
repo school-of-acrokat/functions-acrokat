@@ -1,5 +1,5 @@
 def hello_world():
-    return("hi friendsd")
+    return("hello world")
     
 def cats_or_dogs():
     return("cats AND dogs")
